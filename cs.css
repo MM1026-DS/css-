@@ -134,7 +134,8 @@ body {
   font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: rgb(50, 50, 50); }
 
-
+.mayank
+{ font-size: 50rem; line-height: 10.8;  letter-spacing: -.1rem; margin-bottom: 50rem; }
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6 {
